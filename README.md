@@ -1,4 +1,3 @@
-i like borgor
 
 <!---
 pistifeher00/pistifeher00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
